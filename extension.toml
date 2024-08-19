@@ -1,0 +1,11 @@
+id = "ts-inipp-extension"
+name = "TopSolid PP INI files"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ulrich Alt <ualt@west-gmbh.de>"]
+description = "Extension for authoring and highlighting TopSolid INI files"
+repository = "https://github.com/UlrichAlt/initop-extension"
+
+[grammars.initop]
+repository = "https://github.com/UlrichAlt/initop-grammar.git"
+commit = "b3818167a44a929858fe6a5387c8ff30e54e686c"

@@ -1,0 +1,3 @@
+name = "TopSolid Ini-Files"
+grammar = "ini-top"
+path_suffixes = ["ini", "cfg", "mod"]
