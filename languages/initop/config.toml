@@ -1,3 +1,4 @@
 name = "TopSolid Ini-Files"
-grammar = "ini-top"
+grammar = "ini_top"
 path_suffixes = ["ini", "cfg", "mod"]
+line_comments = ["// "]
