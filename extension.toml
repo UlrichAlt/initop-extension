@@ -8,4 +8,4 @@ repository = "https://github.com/UlrichAlt/initop-extension"
 
 [grammars.ini_top]
 repository = "https://github.com/UlrichAlt/tree-sitter-initop"
-commit = "fa94fc3465f799c060db3f6c9579e1abcdfae68e"
+commit = "30d319cc66e9f5d3c04b18aa9753634849bbb7d2"
